@@ -33,6 +33,6 @@ Now you could use the SSH or VNC to get remote access to raspberry. Plug in the 
     
     ~$iw list
     
-You could one of the phys has the mode of monitor mode. To use the monitor mode:
+You could see one of the phys has the mode of monitor mode. To use the monitor mode:
     
     ~$sudo airodump-ng wlan0 //the adapter that has the monitor mode
